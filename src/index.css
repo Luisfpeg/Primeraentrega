@@ -443,7 +443,7 @@ nav {
   .carrito__item h3{
 display:5rem;
   }  
-  .carrito__item .remove__item box-icon{ 
+.carrito__item .remove__item box-icon{ 
     width: 30px;
     height: 70px;
   }
