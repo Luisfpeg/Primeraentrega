@@ -1,5 +1,6 @@
 import { prettyDOM } from "@testing-library/react";
 import React, {useContext} from "react";
+import Navbar from './components/Navbar';
 
 import {DataContext} from "../../context/DataProvider";
 import { productoItem } from "./ProductoItem"; 

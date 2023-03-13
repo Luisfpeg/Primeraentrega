@@ -2,6 +2,7 @@ import React,{useContext} from "react";
 import Slym from "../../images/Slym.jpeg";
 import { Link } from "react-router-dom";
 import {DataContext } from "../../context/Dataprovider";
+import Navbar from './components/Navbar';
 
 export const Header = () => {
     const value= useContext(DataContext);

@@ -1,6 +1,7 @@
 import React, { useContext} from "react";
 import {Link} from "react-router-dom";
 import {DataContext} from "../../context/Dataprovider";
+import Navbar from './components/Navbar';
 
 
 export const productoItem = ({

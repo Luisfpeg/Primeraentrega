@@ -1,5 +1,6 @@
 import React, {useState, useEffect, createContext } from "react"; 
 import Data from 'Data.js'
+import Navbar from './components/Navbar';
 
 export const DataContext = createContext();
 
