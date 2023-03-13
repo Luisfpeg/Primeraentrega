@@ -5,7 +5,7 @@ import { BrowserRouter as Router } from "react-router-do";
 import {Paginas} from "./Componentes/Paginas";
 import {DataProvider} from "./context/DataProvider"
 import{ Carrito} from ".Componentes/Carrito";
-
+import Navbar from './components/Navbar';
 
 function App() {
   return (
